@@ -1,6 +1,6 @@
 --[[--------------------------------------------------------------------
 	Auto Weapon Sheath by Nomana-Kingsfall
-	CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+	ISC License. See LICENSE.txt.
 
 	Forever uses the Mainline addon API. GetSheathState / ToggleSheath
 	are still the calls; the timer is C_Timer.After.

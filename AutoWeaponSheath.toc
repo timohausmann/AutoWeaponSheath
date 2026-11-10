@@ -1,7 +1,7 @@
 ## Interface: 120105, 16001
 ## Title: Auto Weapon Sheath
 ## Notes: Sheath your weapons whenever you leave combat.
-## Author: Nomana
+## Author: trashyger
 ## Version: 1.1.0
 ## IconTexture: Interface\Icons\INV_Sword_20
 
